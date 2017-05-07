@@ -1,0 +1,41 @@
+#contact{
+			
+			background-color: white;
+			font-family: "Comic Sans MS";
+}
+
+h2{
+			color: black;
+}
+
+p{
+			color: purple;
+}
+.jumbotron{
+		color: red;
+		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+		background-color: black;
+}
+
+.navbar-navbar-inverse{
+			background-color: black;
+			font-weight: heavy;
+			font-family: Arial;
+}
+
+
+
+.active{
+			background-color: black;
+			margin-left: 100px;
+}
+
+.navbar-nav{
+				color: white;
+				font-family: impact;
+}
+
+#myCarousel{
+	width: 50%;
+	margin-left: 27%;
+}
